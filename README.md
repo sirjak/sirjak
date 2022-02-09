@@ -1,4 +1,21 @@
-### Hi there 👋
+# Welcome to my GitHub page 👋
+
+I'm Sirja, a 2nd year IT engineering student, majoring in mobile development. During my freetime I am a gamer :video_game:, hooker :yarn: (= a crocheter) and a reader 📖.
+
+## I am...
+- 🎓 Studying mobile development @ Metropolia University of Applied Sciences
+- 🌱 Learning TypeScript on my freetime
+- ⚡ Open for full-time summer job || (remote) part-time job before/after
+- ☀️ Yearning for a chance to advance my skills in working life
+- 🧡 Especially fond of hospital, school and library environments
+
+## You can find me from...
+- 📫 [LinkedIn](https://www.linkedin.com/in/sirja-kosonen-109944127/)
+- ✉️ Email: sirja.kosonen@gmail.com
+- ⌨️ [My website](http://minaunderthesky.weebly.com/) (currently mainly in Finnish)
+
+My website showcases some of my school projects.
+
 
 <!--
 **sirjak/sirjak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

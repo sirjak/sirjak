@@ -1,6 +1,6 @@
 # Welcome to my GitHub page 👋
 
-I'm Sirja, a 2nd year IT engineering student, majoring in mobile development. During my freetime I am a gamer :video_game:, hooker :yarn: (= a crocheter) and a reader 📖.
+I'm Sirja, a 2nd year IT engineering student for bachelor's degree. During my freetime I am a gamer :video_game:, hooker :yarn: (= a crocheter) and a reader 📖.
 
 ## I am...
 - 🎓 Studying mobile development @ Metropolia University of Applied Sciences

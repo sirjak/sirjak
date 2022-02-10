@@ -9,6 +9,11 @@ I'm Sirja, a 2nd year IT engineering student for bachelor's degree. During my fr
 - ☀️ Yearning for a chance to advance my skills in working life
 - 🧡 Especially fond of hospital, school and library environments
 
+<!--
+## Some school project repos
+- 💊 [Meds Memory](https://github.com/Digitaalitontut/Meds-Memory) from 1st year
+- 🍎 [Scraps](https://github.com/soulyvap/scraps) from 2nd year (still in progress)
+-->
 ## You can find me from...
 - 📫 [LinkedIn](https://www.linkedin.com/in/sirja-kosonen-109944127/)
 - ✉️ Email: sirja.kosonen@gmail.com

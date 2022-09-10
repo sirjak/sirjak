@@ -5,8 +5,7 @@ I'm Sirja, a 2nd year IT engineering student for bachelor's degree. During my fr
 ## I am...
 - 🎓 Studying mobile development @ Metropolia University of Applied Sciences
 - 🌱 Learning Python and TypeScript on my freetime
-- ⚡ Open for full-time summer job && (remote) part-time job afterwards;
-- ☀️ Yearning for a chance to advance my skills in working life
+- :tulip: Part-timing alongside my studies @ Ericsson
 - 🧡 Especially fond of hospital, school and library environments
 
 <!--

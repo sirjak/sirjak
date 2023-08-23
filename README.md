@@ -1,12 +1,12 @@
 # Welcome to my Candyla-- I mean GitHub ✨
 
-I'm Sirja, a 3rd year IT engineering student for bachelor's degree. During my freetime I am a gamer :video_game:, hooker :yarn: (= a crocheter) and a reader 📖.
+I'm Sirja, a final year IT engineering student for a bachelor's degree. During my free time, I am a gamer :video_game:, hooker :yarn: (= a crocheter), and a reader 📖.
 
 ## I am...
 - 🎓 Studying mobile development @ Metropolia University of Applied Sciences
-- 🌱 Learning Python and TypeScript on my freetime
+- 🌱 Learning Python in my free time
 - :tulip: Part-timing alongside my studies @ Ericsson
-- 🧡 Especially fond of hospital, school and library environments
+- 🧡 Especially fond of hospital, school, and library environments
 
 <!--
 ## Some school project repos
@@ -16,7 +16,7 @@ I'm Sirja, a 3rd year IT engineering student for bachelor's degree. During my fr
 ## You can find me from...
 - 📫 [LinkedIn](https://www.linkedin.com/in/sirja-kosonen-109944127/)
 - ✉️ Email: sirja.kosonen@gmail.com
-- ⌨️ [My website](http://minaunderthesky.weebly.com/) (currently mainly in Finnish)
+- ⌨️ [My website](http://minaunderthesky.weebly.com/) (currently mainly in Finnish and horribly outdated)
 
 My website showcases some of my school projects.
 

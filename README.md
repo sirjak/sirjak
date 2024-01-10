@@ -4,9 +4,9 @@ I'm Sirja, a final year IT engineering student for a bachelor's degree. During m
 
 ## I am...
 - 🎓 Studying mobile development @ Metropolia University of Applied Sciences
-- 🌱 Learning Python in my free time
-- :tulip: Part-timing alongside my studies @ Ericsson
-- 🧡 Especially fond of hospital, school, and library environments
+- 🌱 Working on my thesis about migrating an older Android application to use Jetpack Compose
+- 🧡 Passionate about test automation, one day I'll be a Robot Framework wizard
+- :tulip: Especially fond of hospital, school, and library environments
 
 <!--
 ## Some school project repos

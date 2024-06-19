@@ -1,10 +1,10 @@
 # Welcome to my Candyla-- I mean GitHub ✨
 
-I'm Sirja, a final year IT engineering student for a bachelor's degree. During my free time, I am a gamer :video_game:, hooker :yarn: (= a crocheter), and a reader 📖.
+I'm Sirja, a newly graduated IT engineer. During my free time, I am a gamer :video_game:, hooker :yarn: (= a crocheter), and a reader 📖.
 
 ## I am...
-- 🎓 Studying mobile development @ Metropolia University of Applied Sciences
-- 🌱 Working on my thesis about migrating an older Android application to use Jetpack Compose
+- 🎓 Metropolia University of Applied Sciences graduate, majored in mobile development
+- 🌱 Actively looking for a job
 - 🧡 Passionate about test automation, one day I'll be a Robot Framework wizard
 - :tulip: Especially fond of hospital, school, and library environments
 
@@ -14,8 +14,8 @@ I'm Sirja, a final year IT engineering student for a bachelor's degree. During m
 - 🍎 [Scraps](https://github.com/soulyvap/scraps) from 2nd year (still in progress)
 -->
 ## You can find me from...
-- 📫 [LinkedIn](https://www.linkedin.com/in/sirja-kosonen-109944127/)
-- ✉️ Email: sirja.kosonen@gmail.com
+- 📫 [LinkedIn](https://www.linkedin.com/in/sirja-valonen-109944127/)
+- ✉️ Email: sirja.valonen@outlook.com
 - ⌨️ [My website](http://minaunderthesky.weebly.com/) (currently mainly in Finnish and horribly outdated)
 
 My website showcases some of my school projects.

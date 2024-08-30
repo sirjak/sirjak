@@ -4,7 +4,7 @@ I'm Sirja, a newly graduated IT engineer. During my free time, I am a gamer :vid
 
 ## I am...
 - 🎓 Metropolia University of Applied Sciences graduate, majored in mobile development
-- 🌱 Actively looking for a job
+- 🌱 ~~Actively looking for a job~~
 - 🧡 Passionate about test automation, one day I'll be a Robot Framework wizard
 - :tulip: Especially fond of hospital, school, and library environments
 

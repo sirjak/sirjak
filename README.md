@@ -5,7 +5,7 @@ I'm Sirja, a newly graduated IT engineer. During my free time, I am a gamer :vid
 ## I am...
 - 🎓 Metropolia University of Applied Sciences graduate, majored in mobile development
 - 🌱 Software Test Engineer @ Otava Publishing Company Ltd 
-- 🧡 Passionate about test automation, one day I'll be a Robot Framework wizard
+- 🧡 Passionate about test automation, one day I'll be a test automation wizard
 - :tulip: Especially fond of hospital, school, and library environments
 
 <!--
